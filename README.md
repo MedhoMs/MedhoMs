@@ -76,3 +76,7 @@ Currently shaping my path as a **Full Stack Developer** — I build web experien
 # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FjZGpkdmlvcjMxbHgwNTh5Zm96OW41cjBzNW54NjM3ZXlhaGVvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HZvKgdDvta65uAyg0r/giphy.gif" width="27"> Socials:
 <a href='https://www.instagram.com/medhoms/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=plastic&logo=Instagram&logoColor=white&labelColor=E1306C&color=E1306C'/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=danielbucaloiu@gmail.com"><img alt='Instagram' src='https://img.shields.io/badge/Gmail-100000?style=plastic&logo=Gmail&logoColor=white&labelColor=FF3434&color=FF3434'/></a>
+
+<p align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"/>
+</p>
