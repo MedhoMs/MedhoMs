@@ -57,6 +57,15 @@ Currently shaping my path as a **Full Stack Developer** — I build web experien
 
 ---
 
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwyYTB0czgyNjEwYXVjamxya2E4cWZzM3k5cDBhMDFidHJhZDV6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sSXWSVQEqI59rxwtl2/giphy.gif" width="32"> GitHub Analytics
+
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MedhoMs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MedhoMs&theme=radical&layout=compact&exclude_lang=java+r" />
+</p>
+
+---
+
 # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FjZGpkdmlvcjMxbHgwNTh5Zm96OW41cjBzNW54NjM3ZXlhaGVvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HZvKgdDvta65uAyg0r/giphy.gif" width="27"> Socials:
 <a href='https://www.instagram.com/medhoms/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=plastic&logo=Instagram&logoColor=white&labelColor=E1306C&color=E1306C'/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=danielbucaloiu@gmail.com"><img alt='Instagram' src='https://img.shields.io/badge/Gmail-100000?style=plastic&logo=Gmail&logoColor=white&labelColor=FF3434&color=FF3434'/></a>
