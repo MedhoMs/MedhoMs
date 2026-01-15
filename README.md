@@ -25,6 +25,7 @@ I'm about to become a **Full Stack Junior Developer** focused on how to build hi
 
 ### 🧩 Frameworks and Libraries:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vue Router](https://img.shields.io/badge/Vue_Router-100000?style=for-the-badge&logo=Vue.js&logoColor=4ebf8c&labelColor=415A73&color=415A73)
 
 ### 🧠 CMS:
 ![Statamic](https://img.shields.io/badge/Statamic-100000?style=for-the-badge&logo=Statamic&logoColor=FFFFFF&labelColor=fe259d&color=fe259d)
