@@ -1,10 +1,12 @@
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHp5dnJrcmtmeTF5bGVqZjM5eTBrc2h5eTlxY2QybTJrdmV3NTJiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xSVQgqlSTMXYs/giphy.gif" width="29"> About Me, Daniel Bucaloiu Morales:
 
-I'm about to become a **Full Stack Junior Developer** focused on how to build high-performance and useful web applications/sities.
+Currently shaping my path as a **Full Stack Developer** — I build web experiences that actually work and make sense.
 
-- 🧑‍💻 Second-year student in **Web Application Development (DAW)**
-- 🌱 Learning more about **Laravel, modern frontend tooling & architecture**
-- 🚀 Interested in **full-stack & frontend roles**
+⚡ **Right now:**
+- 📚 DAW student (2nd year) | 🔧 Diving deep into Laravel | 🎯 Exploring modern frontend patterns
+
+🧠 **Open to:**
+- 💼 Full-stack opportunities where I can learn fast and ship faster
 
 ---
 
