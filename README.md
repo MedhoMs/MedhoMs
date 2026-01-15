@@ -55,7 +55,7 @@ Currently shaping my path as a **Full Stack Developer** — I build web experien
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF2eGg3Y3d6NWdqYTY2MTRnamhoOHhkanY0Y3FrNW1pdzhrM3drOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vlwVZMjk5ivdYwkDWT/giphy.gif" width="25"> Work Enviroment:
 
 ### 🧑‍💻 Personal IDE 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 💻 Operating Systems
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
