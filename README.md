@@ -1,7 +1,7 @@
 <p align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"/>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Verdanaq&weight=600&size=26&duration=2000&pause=2000&color=9762F7FF&center=true&vCenter=true&width=820&height=110&lines=🌐+Web+Application+Developer+🌐;</>+JavaScript+Developer+Enjoyer+</>;🖥️+Developer+on+Windows|Linux+🖥️;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Verdanaq&weight=600&size=26&duration=2000&pause=2000&color=9762F7FF&center=true&vCenter=true&width=820&height=110&lines=🌐+Web+Application+Development+🌐;</>+JavaScript+Developer+Enjoyer+</>;🖥️+Developer+on+Windows|Linux+🖥️;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 Currently shaping my path as a **Full Stack Developer** — I build web experiences that actually work and make sense.
 
 ⚡ **Right now:**
-- 📚 Web Application Developer student (2nd year) | 🔧 Diving deep into Laravel | 🎯 Exploring modern frontend patterns
+- 📚 Web Application Development student (2nd year) | 🔧 Diving deep into Laravel | 🎯 Exploring modern frontend patterns
 
 🧠 **Open to:**
 - 💼 Full-stack opportunities where I can learn fast and ship faster
