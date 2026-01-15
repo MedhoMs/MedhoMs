@@ -1,3 +1,4 @@
+![Wave](assets/layered-waves-haikei.png)
 # 🌟 About Me, Daniel Bucaloiu Morales:
 
 I'm about to become a **Full Stack Junior Developer** focused on how to build high-performance and useful web applications/sities.
