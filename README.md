@@ -1,4 +1,4 @@
-# 🌟 About Me, Daniel Bucaloiu Morales:
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHp5dnJrcmtmeTF5bGVqZjM5eTBrc2h5eTlxY2QybTJrdmV3NTJiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xSVQgqlSTMXYs/giphy.gif" width="29"> About Me, Daniel Bucaloiu Morales:
 
 I'm about to become a **Full Stack Junior Developer** focused on how to build high-performance and useful web applications/sities.
 
@@ -8,7 +8,7 @@ I'm about to become a **Full Stack Junior Developer** focused on how to build hi
 
 ---
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack:
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack:
 
 ### 📖 Programming Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -43,7 +43,7 @@ I'm about to become a **Full Stack Junior Developer** focused on how to build hi
 
 ---
 
-# 🌍 Work Enviroment:
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF2eGg3Y3d6NWdqYTY2MTRnamhoOHhkanY0Y3FrNW1pdzhrM3drOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vlwVZMjk5ivdYwkDWT/giphy.gif" width="25"> Work Enviroment:
 
 ### 🧑‍💻 Personal IDE 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -55,7 +55,6 @@ I'm about to become a **Full Stack Junior Developer** focused on how to build hi
 
 ---
 
-# 🔗 Socials:
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FjZGpkdmlvcjMxbHgwNTh5Zm96OW41cjBzNW54NjM3ZXlhaGVvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HZvKgdDvta65uAyg0r/giphy.gif" width="27"> Socials:
 <a href='https://www.instagram.com/medhoms/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=plastic&logo=Instagram&logoColor=white&labelColor=E1306C&color=E1306C'/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=danielbucaloiu@gmail.com"><img alt='Instagram' src='https://img.shields.io/badge/Gmail-100000?style=plastic&logo=Gmail&logoColor=white&labelColor=FF3434&color=FF3434'/></a>
-![Wave](assets/wave.svg)
