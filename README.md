@@ -1,4 +1,3 @@
-![Wave](assets/layered-waves-haikei.png)
 # 🌟 About Me, Daniel Bucaloiu Morales:
 
 I'm about to become a **Full Stack Junior Developer** focused on how to build high-performance and useful web applications/sities.
@@ -59,3 +58,4 @@ I'm about to become a **Full Stack Junior Developer** focused on how to build hi
 # 🔗 Socials:
 <a href='https://www.instagram.com/medhoms/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=plastic&logo=Instagram&logoColor=white&labelColor=E1306C&color=E1306C'/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=danielbucaloiu@gmail.com"><img alt='Instagram' src='https://img.shields.io/badge/Gmail-100000?style=plastic&logo=Gmail&logoColor=white&labelColor=FF3434&color=FF3434'/></a>
+![Wave](assets/wave.svg)
