@@ -11,6 +11,7 @@ Currently shaping my path as a **Full Stack Developer** — I build web experien
 
 ⚡ **Right now:**
 - 📚 Web Application Development student (2nd year) | 🔧 Diving deep into Laravel | 🎯 Exploring modern frontend patterns
+- 😶 Most of my current stuff is made it just for fun as I'm learning at the same time
 
 🧠 **Open to:**
 - 💼 Full-stack opportunities where I can learn fast and ship faster
