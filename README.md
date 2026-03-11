@@ -10,7 +10,7 @@
 Currently shaping my path as a **Full Stack Developer** — I build web experiences that actually work and make sense.
 
 ⚡ **Right now:**
-- 📚 Web Application Development student (2nd year) | 🔧 Diving deep into Laravel | 🎯 Exploring modern frontend patterns
+- 📚 Web Application Development student (2nd year) | 🎯 Exploring modern frontend patterns
 - 😶 Most of my current stuff is made it just for fun as I'm learning at the same time
 
 🧠 **Open to:**
@@ -36,6 +36,7 @@ Currently shaping my path as a **Full Stack Developer** — I build web experien
 ### 🧩 Frameworks and Libraries:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vue Router](https://img.shields.io/badge/Vue_Router-100000?style=for-the-badge&logo=Vue.js&logoColor=4ebf8c&labelColor=384B5F&color=384B5F)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🧠 CMS:
 ![Statamic](https://img.shields.io/badge/Statamic-100000?style=for-the-badge&logo=Statamic&logoColor=FFFFFF&labelColor=fe259d&color=fe259d)
